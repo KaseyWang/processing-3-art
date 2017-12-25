@@ -1,5 +1,8 @@
 # processing3Art
-Processing 3 | Early net graphic inspired
+Processing 3 | Art
 
+Early computer motion graphics created by repeating dots or lines via mathematical equations:
 
-<iframe src="https://archive.org/embed/experimentsinmotiongraphics" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+[Experiments in Motion Graphics | Archive.org](https://archive.org/embed/experimentsinmotiongraphics)
+
+[The Code Train | Processing.org](https://processing.org)
