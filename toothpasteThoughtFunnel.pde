@@ -1,4 +1,4 @@
-// How thoughts come from above and spread below.
+// A visual representation of how thoughts are gathered and then appear.
 
 boolean recording = false;
 
