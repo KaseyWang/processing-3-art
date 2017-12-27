@@ -1,4 +1,4 @@
-// A visual representation of how thoughts are gathered and then appear.
+// A visual representation of how thoughts are gathered and then appear. Run this in Processing 3.
 
 boolean recording = false;
 
